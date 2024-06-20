@@ -1,9 +1,6 @@
 #!/usr/bin/node
 
-const first = 'C is fun';
-const second = 'Python is cool';
-const third = 'JavaScript is amazing';
-const arr = [first, second, third];
+const arr = ['C is fun', 'Python is cool', 'JavaScript is amazing'];
 for (let i = 0; i < arr.length; i++) {
   console.log(arr[i]);
 }
