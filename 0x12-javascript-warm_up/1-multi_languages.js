@@ -1,5 +1,3 @@
 #!/usr/bin/node
-first = 'C is fun\n';
-sec = 'Python is cool\n';
-va = 'JavaScript is amazing';
-console.log(first + sec + va);
+
+console.log('C is fun\nPython is cool\nJavaScript is amazing');
