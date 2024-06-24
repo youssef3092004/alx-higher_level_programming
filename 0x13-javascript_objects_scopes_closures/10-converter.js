@@ -4,3 +4,4 @@ exports.converter = function (base) {
     return parseInt(num, base);
   };
 };
+
